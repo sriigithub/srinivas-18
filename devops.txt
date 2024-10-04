@@ -2,4 +2,5 @@ puppet
 github
 git 
 docker
-
+jenkin
+kubernetes
